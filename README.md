@@ -1,0 +1,1 @@
+This is my progress in Project Euler, a fun math/programming based question site which I encountered in my first year at college. The file functions.py is a collection of all the functions I implemented in the process.
